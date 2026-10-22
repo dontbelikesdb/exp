@@ -1,0 +1,32 @@
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments and local environment files
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# TensorFlow / Keras generated artifacts
+*.keras
+*.h5
+*.hdf5
+checkpoints/
+logs/
+
+# Downloaded or locally prepared datasets
+dataset/
+data/
+
+# IDE and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
