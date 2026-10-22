@@ -24,6 +24,7 @@ logs/
 # Downloaded or locally prepared datasets
 dataset/
 data/
+events.csv
 
 # IDE and operating-system files
 .vscode/
